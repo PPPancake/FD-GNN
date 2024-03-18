@@ -7,7 +7,7 @@ Pytorch Implementation of
 
 
 <h2 align="center">
-<figure> <img src="figures/topology.png" height="300"></figure>
+<figure> <img src="topology.jpg" height="300"></figure>
 </h2>
 
 Illustration of GFN.
