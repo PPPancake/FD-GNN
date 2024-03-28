@@ -2,7 +2,3 @@ __pycache__
 .vscode/*
 pytorch_models/*
 data/*
-result.log
-backup/*
-paint_args copy.py
-paint_args.py
