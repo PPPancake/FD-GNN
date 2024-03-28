@@ -5,6 +5,8 @@
 <figure> <img src="topology.jpg" height="300"></figure>
 </h2>
 
+FDGN, Feature Decomposition-Graph Neural Network
+
 # Dataset
 YelpChi and Amazon can be downloaded from [here](https://github.com/YingtongDou/CARE-GNN/tree/master/data) or [dgl.data.FraudDataset](https://docs.dgl.ai/api/python/dgl.data.html#fraud-dataset).
 
